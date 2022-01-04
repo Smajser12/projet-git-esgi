@@ -601,5 +601,6 @@ int sh_type(char** args){
             }
         } 
     }
+    
     return 1;
 }
